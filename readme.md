@@ -1,3 +1,3 @@
 # Javascript
 
-[Higher Order Functions](documents/my-file.md)
+[Higher Order Functions](javascript/higherOrderFunctions.md)
